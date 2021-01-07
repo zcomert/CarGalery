@@ -6,7 +6,11 @@
 
   <ItemGroup>
     <Folder Include="Concrete\ADONET\" />
-    <Folder Include="Concrete\EntityFramework\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="5.0.0" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="5.0.0" />
   </ItemGroup>
 
   <ItemGroup>
