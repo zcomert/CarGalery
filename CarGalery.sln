@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGalery.Business", "CarGa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGalery.ConsoleApp", "CarGalery.ConsoleApp\CarGalery.ConsoleApp.csproj", "{7251E2A4-4E35-44A2-BD5C-F1DBDFE23AAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarGalery.MVCWebProject", "CarGalery.MVCWebProject\CarGalery.MVCWebProject.csproj", "{08C5DF48-2433-4CE1-8DFF-6DAFDBCD1A6B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{7251E2A4-4E35-44A2-BD5C-F1DBDFE23AAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7251E2A4-4E35-44A2-BD5C-F1DBDFE23AAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7251E2A4-4E35-44A2-BD5C-F1DBDFE23AAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08C5DF48-2433-4CE1-8DFF-6DAFDBCD1A6B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C5DF48-2433-4CE1-8DFF-6DAFDBCD1A6B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C5DF48-2433-4CE1-8DFF-6DAFDBCD1A6B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C5DF48-2433-4CE1-8DFF-6DAFDBCD1A6B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

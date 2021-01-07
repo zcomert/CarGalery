@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CarGalery.Business\CarGalery.Business.csproj" />
+    <ProjectReference Include="..\CarGalery.DataAccess\CarGalery.DataAccess.csproj" />
+    <ProjectReference Include="..\CarGalery.Entities\CarGalery.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
